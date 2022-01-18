@@ -1,0 +1,2 @@
+.App{background:#deb887;display:flex;flex-direction:column;align-items:center}.user{display:block}.user__name{font-size:large;font-weight:700}.user__email{color:indigo}.todo{background:#fff;display:flex;flex-direction:column;margin-bottom:5px}.todo__title{font-style:italic}.todo__status-completed{color:green}.todo__status-notcompleted{color:red}.todo__list{list-style:none}
+/*# sourceMappingURL=main.6af9a8e4.chunk.css.map */
